@@ -7,7 +7,7 @@ Proud to be an Engineer! 🚀
 
   - 🔭 I’m currently working on an Agentic RAG & Text2SQL flow & AI avatar
   - 🌱 I’m currently learning to work with Kubernetes, Azure AI stack
-  - ⚡ Fun fact: I love colorful clothes
+  - ⚡ Fun fact: I love colorful clothes & I'm 23 y.o. certified zoomer
 
 
 **My Projects:**
@@ -19,7 +19,9 @@ Proud to be an Engineer! 🚀
 
 <h3 align="left">Connect with me:</h3>
 https://t.me/iie4enka
+
 https://www.linkedin.com/in/mikhail-tanko-1a024528b/
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IIe4enka&label=Profile%20views&color=0e75b6&style=flat" alt="IIe4enka" /> </p>
 
