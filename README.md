@@ -5,16 +5,17 @@
 I'm on a mission to create LLM Assistants that can make our lives easier & more insightful! I have worked on 2 LLM AI startups and 3 years in AI IT consulting, which allows me to bring my magic to both revolutionary startups and giant enterprise projects. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation, creative solutions and continuous professional growth. 
 Proud to be an Engineer! 🚀
 
-**My Projects:**
-- AI B2B RAG & Text2SQL Platform "Retriever". Co-founder & CEO
-- AI LLM Travel Recommendation Platform. Co-founder & CTO
-- Multiple Forecasting, CV, Classic ML projects for various companies, including: Unilever, RitterSport, BMW, Yandex
-- Project Management Analytics Dashboard for my Uni
-
-
   - 🔭 I’m currently working on an Agentic RAG & Text2SQL flow & AI avatar
   - 🌱 I’m currently learning to work with Kubernetes, Azure AI stack
   - ⚡ Fun fact: I love colorful clothes
+
+
+**My Projects:**
+- ✨ AI B2B RAG & Text2SQL Platform "Retriever". Co-founder & CEO
+- ✈️ LLM Travel Itinerary & Recommendation Platform. Co-founder & CTO
+- 📊 Multiple Forecasting, CV, Classic ML projects for various companies, including: Unilever, RitterSport, BMW, Yandex
+- 📈 Project Management Analytics Dashboard for my Uni
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
