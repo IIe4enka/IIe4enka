@@ -18,12 +18,8 @@ Proud to be an Engineer! 🚀
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/iie4enka" target="blank"><i align="center" class="devicon-telegram-original" alt="iie4enka" height="40" width="60" ></i>
-</a>
-<a href="[https://www.linkedin.com/in/renato-r-611795133/](https://www.linkedin.com/in/mikhail-tanko-1a024528b/)" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="mikhail-tanko" height="40" width="60" ></i>
-</a>
-</p>
+https://t.me/iie4enka
+https://www.linkedin.com/in/mikhail-tanko-1a024528b/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IIe4enka&label=Profile%20views&color=0e75b6&style=flat" alt="IIe4enka" /> </p>
 
