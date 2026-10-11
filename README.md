@@ -3,5 +3,5 @@
 ### Hello 🌎, I'm Mike Tanko
 
 <h3 align="left">Connect with me:</h3>
-https://t.me/iie4enka
+https://t.me/iie4enka/
 https://www.linkedin.com/in/mikhail-tanko-1a024528b/
